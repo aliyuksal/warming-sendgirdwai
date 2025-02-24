@@ -1,0 +1,50 @@
+2024-10-17 11:38:45,794:WARNING:Invalid recipient data skipped: {'name': 'Beyhan', 'lastname': 'Ogul', 'email': 'beyhanogul1@gmail.com', 'unique_code': '35FR32'}
+2024-10-17 11:38:45,796:WARNING:Invalid recipient data skipped: {'name': 'Ali', 'lastname': 'Yuksel', 'email': 'aliyuuksel13@gmail.com', 'unique_code': '33RE12'}
+2024-10-17 11:38:45,797:INFO:Recipient not found for email: beyhanogul1@gmail.com
+2024-10-17 11:38:45,798:INFO:Total recipients loaded: 0
+2024-10-17 11:41:04,828:INFO:Added recipient: Name: Beyhan Ogul, Email: beyhanogul1@gmail.com, Unique Code: 35FR32
+2024-10-17 11:41:04,828:INFO:Added recipient: Name: Ali Yuksel, Email: aliyuuksel13@gmail.com, Unique Code: 33RE12
+2024-10-17 11:41:04,843:INFO:Total recipients loaded: 2
+2024-10-17 11:41:04,843:INFO:Name: Beyhan Ogul, Email: beyhanogul1@gmail.com, Unique Code: 35FR32
+2024-10-17 11:41:04,843:INFO:Name: Ali Yuksel, Email: aliyuuksel13@gmail.com, Unique Code: 33RE12
+2024-10-17 11:46:48,124:INFO:Email sent to aliyuuksel13@gmail.com: Status Code 202
+2024-10-17 11:46:48,124:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:46:59,897:INFO:Email sent to beyhanogul1@gmail.com: Status Code 202
+2024-10-17 11:46:59,897:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-17 11:51:01,461:INFO:Added recipient: Name: Beyhan Ogul, Email: beyhanogul1@gmail.com, Unique Code: 35FR32
+2024-10-17 11:51:01,461:INFO:Added recipient: Name: Ali Yuksel, Email: aliyuuksel13@gmail.com, Unique Code: 33RE12
+2024-10-17 11:51:01,772:INFO:Email sent to beyhanogul1@gmail.com: Status Code 202
+2024-10-17 11:51:06,808:INFO:Email sent to aliyuuksel13@gmail.com: Status Code 202
+2024-10-17 11:54:03,366:INFO:Loading recipients from recipients.csv...
+2024-10-17 11:54:03,366:INFO:Added recipient: Name: Beyhan Ogul, Email: beyhanogul1@gmail.com, Unique Code: 35FR32
+2024-10-17 11:54:03,366:INFO:Added recipient: Name: Ali Yuksel, Email: aliyuuksel13@gmail.com, Unique Code: 33RE12
+2024-10-17 11:54:03,366:INFO:Starting bulk email sending...
+2024-10-17 11:55:00,726:INFO:Email sent to beyhanogul1@gmail.com: Status Code 202
+2024-10-17 11:55:00,726:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-17 11:55:16,934:INFO:Email sent to aliyuuksel13@gmail.com: Status Code 202
+2024-10-17 11:55:16,934:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:55:16,934:INFO:Retrying failed emails, if any...
+2024-10-19 04:58:02,274:INFO:Loading recipients from recipients.csv...
+2024-10-19 04:58:02,274:INFO:Added recipient: Name: Beyhan Ogul, Email: beyhanogul1@gmail.com, Unique Code: 35FR32
+2024-10-19 04:58:02,274:INFO:Added recipient: Name: Ali Yuksel, Email: aliyuuksel13@gmail.com, Unique Code: 33RE12
+2024-10-19 04:58:02,274:INFO:Added recipient: Name: Furkan Uzum, Email: furkannuzum@gmail.com, Unique Code: 34FF22
+2024-10-19 04:58:02,274:INFO:Starting bulk email sending...
+2024-10-19 04:58:13,668:INFO:Email sent to beyhanogul1@gmail.com: Status Code 202
+2024-10-19 04:58:13,668:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-19 04:58:29,316:INFO:Email sent to aliyuuksel13@gmail.com: Status Code 202
+2024-10-19 04:58:29,316:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-19 04:58:35,202:INFO:Email sent to furkannuzum@gmail.com: Status Code 202
+2024-10-19 04:58:35,202:INFO:Email successfully sent to furkannuzum@gmail.com
+2024-10-19 04:58:35,202:INFO:Retrying failed emails, if any...
+2024-10-19 05:19:02,513:INFO:Loading recipients from recipients.csv...
+2024-10-19 05:19:02,515:INFO:Added recipient: Name: Beyhan Ogul, Email: beyhanogul1@gmail.com, Unique Code: 35FR32
+2024-10-19 05:19:02,515:INFO:Added recipient: Name: Ali Yuksel, Email: aliyuuksel13@gmail.com, Unique Code: 33RE12
+2024-10-19 05:19:02,515:INFO:Added recipient: Name: Furkan Uzum, Email: istebolecalarlar@gmail.com, Unique Code: 34FF22
+2024-10-19 05:19:02,517:INFO:Starting bulk email sending...
+2024-10-19 05:19:29,263:INFO:Email sent to beyhanogul1@gmail.com: Status Code 202
+2024-10-19 05:19:29,263:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-19 05:20:11,776:INFO:Email sent to aliyuuksel13@gmail.com: Status Code 202
+2024-10-19 05:20:11,791:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-19 05:20:34,250:INFO:Email sent to istebolecalarlar@gmail.com: Status Code 202
+2024-10-19 05:20:34,265:INFO:Email successfully sent to istebolecalarlar@gmail.com
+2024-10-19 05:20:34,265:INFO:Retrying failed emails, if any...

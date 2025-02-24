@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\gmail-auto-responder.py", line 182, in <module>
+    auto_reply()
+  File "c:\Users\Administrator\Desktop\gmail-auto-responder.py", line 179, in auto_reply
+    time.sleep(60)
+KeyboardInterrupt

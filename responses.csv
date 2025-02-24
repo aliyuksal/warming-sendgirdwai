@@ -1,0 +1,44 @@
+email_id,sender_email,message_content,response_content,response_sent,received_at,responded_at,response_code
+,"""Ali Yüksel"" <aliyuuksel13@gmail.com>","Test 33RE12, this text was created for testing and is looking forward to
+being answered by artificial intelligence.
+<div dir=""ltr"">Test 33RE12, this text was created for testing and is looking forward to being answered by artificial intelligence.<br></div>
+","failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stderr: The handle is invalid.
+Merhaba Ali Yüksel!
+
+Teşekkür ederim bahwa sana bana hedya olarak bir hediye gönderdin. Ben, codehal.com'a giterek, indirimli alışveriş yapabiliyorum.
+
+Hediye kodunu kullanarak, indirimli alışveriset bana 10% indirim ve 5 TL free shipping kazandırmıştır. Hediye koduna bakmak için codehal.com'a girip ""ALIYUKE13"" kodu kullanın.
+
+Teşekkür ederim, sevgilim!",True,2024-10-20 06:49:37,2024-10-20 06:50:02,200
+,"""Ali Yüksel"" <aliyuuksel13@gmail.com>","Test 33RE12, this text was created for testing and is looking forward to
+being answered by artificial intelligence.
+<div dir=""ltr"">Test 33RE12, this text was created for testing and is looking forward to being answered by artificial intelligence.<br></div>
+","failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stderr: The handle is invalid.
+Ilginç bir email!
+
+Bu email, bir satıcı (olunda olduğu için ""sevgili"" olarak hitap Edwards) tarafından gönderilmekte ve mụcumu bir promosyon koduna iliştirilmektedir. Kod ""aliyuuksel13@gmail.com"" olarak gösterilitir.",True,2024-10-20 06:52:56,2024-10-20 06:53:11,200
+,"""Ali Yüksel"" <aliyuuksel13@gmail.com>","this is a test message from ali yuksel, I just want to test if its work
+llama
+<div dir=""ltr"">this is a test message from ali yuksel, I just want to test if its work llama<br></div>
+","failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stderr: The handle is invalid.
+Benzer gibi bir mesaj senden önce nunca görmüştüm ve bu nedenle bana eminolsun bu message bir spam mesajı olabilir.",True,2024-10-20 06:55:09,2024-10-20 06:55:19,200
+,"""Ali Yüksel"" <aliyuuksel13@gmail.com>","hey, its a test message say hi please!
+<div dir=""ltr"">hey, its a test message say hi please!</div>
+","failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stderr: The handle is invalid.
+It looks like you've received a suspicious email. Here are some red flags:
+
+1. The sender's name is not verifiable, and the email address seems generic.
+2. The email creates a sense of urgency with the phrase ""Use it now!"", which could be an attempt to scare you into taking action without thinking twice.
+
+To protect yourself from potential phishing scams or spam, I would recommend the following:
+
+1. Don't click on any links or download any attachments from this email.
+2. Don't enter any sensitive information, such as your login credentials or financial details.
+3. Report the email to the sender's email provider (e.g., Gmail) and mark it as spam.
+4. Verify the authenticity of the offer by contacting the company directly through a trusted channel, such as their official website or customer support number.
+
+Remember to always be cautious when receiving unsolicited emails that promise special offers or deals!",True,2024-10-20 07:00:05,2024-10-20 07:00:39,200

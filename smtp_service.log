@@ -1,0 +1,49 @@
+2024-10-17 10:56:54,182:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 10:56:56,280:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 10:56:58,406:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 10:56:58,406:ERROR:Failed to send email to aliyuuksel13@gmail.com after 3 attempts.
+2024-10-17 10:56:58,406:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 10:57:17,004:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 10:57:19,141:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 10:57:21,240:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 10:57:21,240:ERROR:Failed to send email to beyhanogul1@gmail.com after 3 attempts.
+2024-10-17 10:57:21,240:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-17 11:05:31,639:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:05:33,745:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:05:35,859:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:05:35,861:ERROR:Failed to send email to aliyuuksel13@gmail.com after 3 attempts.
+2024-10-17 11:05:35,862:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:05:48,057:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:05:50,150:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:05:52,266:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:05:52,266:ERROR:Failed to send email to beyhanogul1@gmail.com after 3 attempts.
+2024-10-17 11:05:52,266:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-17 11:12:28,478:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:12:30,574:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:12:32,683:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:12:32,683:ERROR:Failed to send email to aliyuuksel13@gmail.com after 3 attempts.
+2024-10-17 11:12:32,683:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:15:00,525:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:15:02,611:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:15:04,718:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:15:04,718:ERROR:Failed to send email to aliyuuksel13@gmail.com after 3 attempts.
+2024-10-17 11:15:04,718:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:15:15,907:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:15:17,991:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:15:20,102:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:15:20,102:ERROR:Failed to send email to beyhanogul1@gmail.com after 3 attempts.
+2024-10-17 11:15:20,102:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-17 11:19:23,431:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:19:25,500:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:19:27,551:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:19:27,551:ERROR:Failed to send email to aliyuuksel13@gmail.com after 3 attempts.
+2024-10-17 11:19:27,551:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:20:03,853:ERROR:Attempt 1 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:20:05,955:ERROR:Attempt 2 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:20:08,057:ERROR:Attempt 3 failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+2024-10-17 11:20:08,057:ERROR:Failed to send email to beyhanogul1@gmail.com after 3 attempts.
+2024-10-17 11:20:08,057:INFO:Email successfully sent to beyhanogul1@gmail.com
+2024-10-17 11:30:32,787:INFO:Email sent to aliyuuksel13@gmail.com: Status Code 202
+2024-10-17 11:30:32,787:INFO:Email successfully sent to aliyuuksel13@gmail.com
+2024-10-17 11:30:50,102:INFO:Email sent to beyhanogul1@gmail.com: Status Code 202
+2024-10-17 11:30:50,117:INFO:Email successfully sent to beyhanogul1@gmail.com

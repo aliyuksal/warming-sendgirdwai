@@ -1,0 +1,4 @@
+Email: beyhanogul1@gmail.com, Subject: Test Email Subject 1, Status Code: 202, Message: Success
+Email: beyhanogul1@gmail.com, Subject: Test Email Subject 2, Status Code: 202, Message: Success
+Email: beyhanogul1@gmail.com, Subject: Test Email Subject 3, Status Code: 202, Message: Success
+Email: beyhanogul1@gmail.com, Subject: Test Email Subject 1, Status Code: 202, Message: Success
